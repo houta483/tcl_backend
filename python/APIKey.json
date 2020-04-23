@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fluid-advantage-270817",
+  "private_key_id": "9e505bea9e6f11cd5c7686fe9e8c14b8f7ec8d1e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDTePaT4VzRmBXG\nU88tC/gUY7hILEgf/c57SAIX8sGX4jaXy0VqkgKHVbOiEIq0IV9iLfFaFOVn+V/c\n1vnG9v1cIEh6wKkP3zpN+zB+ZeCuC7+LJqnSJ86Z4HTK/p4aZ/PlLTlaUjSryLhp\nfKrrWkG24JZ8/yyWoFzlGBqIXAa12lX0XA5+IBEscbWEUGA6pCNUrUf2lQpzvsCO\nGlS5nH+tcUPKVr5ZnFBjJ1NG7fdrwsYgL0yoOug81s/u3oencaaE9oWLqV9xW6MC\nkxNqs16B5OVPAAGyeyBlTlmgty54ti6m1F4Q1XOWsCD8fsKdqf+TJeESpU/lZsCP\n0A3eGe7bAgMBAAECggEASDDYmDYMTh6pfElbBck6uJcsLzMysf0eUlaMJGnCLdvT\nADGrskxC4blfd7lG6GQmICmH5VUR1VM7pvOaVBI3/o2kwIbpj9oIGNvhu5yCvVeU\nXWfm/C+Lp1sI881E4sXO7FLqa8t5YJVGYvhkjrCCk3AK34Pq0EbRP4HheOBViBlw\nSp775CmemfTw2mx/Oy+dPZO3kVEothI9BTa7Aik2hWJc0P1yaYErdgvo0m9voEpC\nI6/MBlhAVoz9O9k5rKfJToONkMMc42cfqWZojEFIaPgAsygYjdDWb9hZbovp33ei\nW+1fuMWd0g04o1QGxG4XX5So/jwRCC3ATV+AO2yalQKBgQDz3F4fZRQrFQrqm3JV\nJEEDjxvj1CTeJxeN3nCGMSs8RUuqobluTCEJWLCkR7UDPqNhQQxNTv1hhe9FC9dg\nVWNweb5JYQCy9ukz8vJYhy/qnn+kBFaeVkH5hbJPSCHPa6SNrNKc8KosBwTJpn3V\n9vuZNnWCMfsJWs5vIUgwTDNVlwKBgQDd/9s2Eap2PSrbvNCi8jIq7ozXT1BD1ZIC\nzKONA4c1So6+AW0eFVMUeTTuGVw1M7tow0NiJH4PfYh8RU8fJuCSmYh7MGDOgLS7\nTBcAZSG2sucXrzjEeBNpRGYIp1m7uHBtW7T9aNB7NhWlijtH2uDdMoooOpYWdOno\n77P20xvBXQKBgAPeq1+0Ku3EF7hBXz8apC16R+cFptAfrrABp6d5gEYkk17R0i99\n5chQL/1rZeP3SoBwl9FiP4McrP9bgL92m21dgTeI4on0gR7h7BabjpcajMv9haJd\nnA5poLrBWkgAXUwiQfVbnFe2hMzuZ3DNypBT3OmEAYfUeRIqZQrfKrFhAoGBAIKs\nB6xb2aqfdorBKU3AoicDI4PY+7XyEG/1ZI+sc/m6WSseS8xZYP28GpvL8aqfOMEB\nrrgmIs2bZqs/YMNFbwrbtKpOX60ttTRKJX/mB2IzDDO0wAVlaIed6zFM0FTey86T\nHIXNHGpp+3PlWd+Bxrps9UWYtp+hUc36ykOPH9dBAoGBAJb/YQW5/Qatk8blw3yi\nbcRUzqq6WThERGOpuXHgL8j72g2wo2LWKRwTYdyVVE5jLcwucppVGq1fa699VH0r\nVLKzUJcTM0m+Rr49vDatsFlVwXLKP9/tQ2y8bDtA1pP+qMDMlfTs4/U8aeymVsc0\nygtkmhL4jKbXmDrsdU2JcUoo\n-----END PRIVATE KEY-----\n",
+  "client_email": "tanner-houghton-252@fluid-advantage-270817.iam.gserviceaccount.com",
+  "client_id": "112606984000158261989",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tanner-houghton-252%40fluid-advantage-270817.iam.gserviceaccount.com"
+}
