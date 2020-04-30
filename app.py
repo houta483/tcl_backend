@@ -11,7 +11,7 @@ CORS(app)
 
 @app.route("/", methods=["GET"])
 def home():
-  return 'hello'
+  return '<h1> hello </h1>'
 
 @app.route("/submit/", methods=["POST"])
 def submit():
