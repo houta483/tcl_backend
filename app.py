@@ -9,6 +9,10 @@ from PIL import Image
 app = Flask(__name__)
 CORS(app)
 
+@app.route("/", methods=["GET"])
+def submit():
+  return 'hello'
+
 @app.route("/submit/", methods=["POST"])
 def submit():
   ## this method runs when submits.
